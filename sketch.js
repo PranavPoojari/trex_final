@@ -279,7 +279,7 @@ function spawnBirds() {
     //adding cloud to the group
    birdsGroup.add(bird);
    bird.setCollider("circle", 0, 0, 50)
-   bird.debug = false
+  
   
     }
 }
